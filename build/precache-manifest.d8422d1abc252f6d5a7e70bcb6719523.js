@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c54074931dc29775d855894ebf492a7b",
+    "revision": "31b73f304b10bd97a0d32a3250937f97",
     "url": "/Antonov-Portfolio/index.html"
   },
   {
-    "revision": "91bca7596740ebd9bd99",
+    "revision": "b169bacc2b8c311bde0a",
     "url": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "e93d162c3d92b3ea59e2",
-    "url": "/Antonov-Portfolio/static/css/main.4a55ff9b.chunk.css"
+    "revision": "3b438f3467e2209b9ffa",
+    "url": "/Antonov-Portfolio/static/css/main.de8adad6.chunk.css"
   },
   {
-    "revision": "91bca7596740ebd9bd99",
-    "url": "/Antonov-Portfolio/static/js/2.94cdc7ec.chunk.js"
+    "revision": "b169bacc2b8c311bde0a",
+    "url": "/Antonov-Portfolio/static/js/2.78a4f909.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Antonov-Portfolio/static/js/2.94cdc7ec.chunk.js.LICENSE.txt"
+    "url": "/Antonov-Portfolio/static/js/2.78a4f909.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e93d162c3d92b3ea59e2",
-    "url": "/Antonov-Portfolio/static/js/main.640be186.chunk.js"
+    "revision": "3b438f3467e2209b9ffa",
+    "url": "/Antonov-Portfolio/static/js/main.7df2cceb.chunk.js"
   },
   {
-    "revision": "52ef86ba4419c5f59812",
-    "url": "/Antonov-Portfolio/static/js/runtime-main.11c5e0d7.js"
+    "revision": "aff8b7d2f429d3a19a7e",
+    "url": "/Antonov-Portfolio/static/js/runtime-main.6674da36.js"
   },
   {
     "revision": "ade91f473255991f410f61857696434b",
