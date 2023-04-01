@@ -13,7 +13,7 @@ const Header = () => {
                         Antonov Igor
                     </h1>
                     <h2 className="header__subtitle">
-                       Front - End developer | React developer
+                       Full Stack | Java developer | React developer
                     </h2>
                     <div className="header-social-links">
                         <a target='_blank' href="https://www.facebook.com/GagarinGara/" className="header-social__link">
