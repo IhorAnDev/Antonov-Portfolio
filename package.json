@@ -2,7 +2,7 @@
   "name": "Antonov-Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IhorAnDev.github.io/Antonov-Portfolio",
+  "homepage": "https://ihorandev.github.io/Antonov-Portfolio/",
   "dependencies": {
     "@babel/runtime": "^7.12.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",

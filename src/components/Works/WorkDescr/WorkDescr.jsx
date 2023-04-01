@@ -27,7 +27,7 @@ const WorkDescr = (props) => {
                                 </div>
                                 <div className="works-descr-wrap grid">
                                     <div className="works-descr-img"
-                                         style={{backgroundImage: `url(https://snegurjan.github.io/Antonov-Portfolio/works/${result.img})`}}>
+                                         style={{backgroundImage: `url(https://IhorAnDev.github.io/Antonov-Portfolio/works/${result.img})`}}>
                                     </div>
                                     <div className="works-descr-technologies">
                                         <h3 className="works__title works-descr__title">

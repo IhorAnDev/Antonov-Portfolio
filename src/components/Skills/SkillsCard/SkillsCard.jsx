@@ -6,7 +6,7 @@ import {NavLink} from "react-router-dom";
 const SkillsCard = (props) => {
     return (
         <NavLink to={'/skills/' + props.path} className='skills-card'
-                 style={{backgroundImage: `url(https://snegurjan.github.io/Antonov-Portfolio/skills/${props.img})`}}>
+                 style={{backgroundImage: `url(https://IhorAnDev.github.io/Antonov-Portfolio/skills/${props.img})`}}>
             <div className="skills-card__mask">
                 <div>
                     <h4 className="skills-card__mask__title">{props.title}</h4>

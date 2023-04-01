@@ -26,7 +26,7 @@ const Works = () => {
                         }
                     </div>
                     <div className="works-footer">
-                        <a target='_blank' href='https://github.com/Snegurjan' className="works__button">
+                        <a target='_blank' href='https://github.com/ihorandev' className="works__button">
                             <FontAwesomeIcon icon={faGithub} /> ВСЕ РАБОТЫ</a>
                     </div>
                 </section>

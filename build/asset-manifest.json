@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Antonov-Portfolio/static/css/main.de8adad6.chunk.css",
-    "main.js": "/Antonov-Portfolio/static/js/main.7df2cceb.chunk.js",
-    "main.js.map": "/Antonov-Portfolio/static/js/main.7df2cceb.chunk.js.map",
+    "main.js": "/Antonov-Portfolio/static/js/main.f24ac1a8.chunk.js",
+    "main.js.map": "/Antonov-Portfolio/static/js/main.f24ac1a8.chunk.js.map",
     "runtime-main.js": "/Antonov-Portfolio/static/js/runtime-main.6674da36.js",
     "runtime-main.js.map": "/Antonov-Portfolio/static/js/runtime-main.6674da36.js.map",
     "static/css/2.f524894f.chunk.css": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css",
     "static/js/2.78a4f909.chunk.js": "/Antonov-Portfolio/static/js/2.78a4f909.chunk.js",
     "static/js/2.78a4f909.chunk.js.map": "/Antonov-Portfolio/static/js/2.78a4f909.chunk.js.map",
     "index.html": "/Antonov-Portfolio/index.html",
-    "precache-manifest.d8422d1abc252f6d5a7e70bcb6719523.js": "/Antonov-Portfolio/precache-manifest.d8422d1abc252f6d5a7e70bcb6719523.js",
+    "precache-manifest.ea00e1b0b27ccf9b84bbabbc32975bee.js": "/Antonov-Portfolio/precache-manifest.ea00e1b0b27ccf9b84bbabbc32975bee.js",
     "service-worker.js": "/Antonov-Portfolio/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css.map",
     "static/css/main.de8adad6.chunk.css.map": "/Antonov-Portfolio/static/css/main.de8adad6.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.f524894f.chunk.css",
     "static/js/2.78a4f909.chunk.js",
     "static/css/main.de8adad6.chunk.css",
-    "static/js/main.7df2cceb.chunk.js"
+    "static/js/main.f24ac1a8.chunk.js"
   ]
 }

@@ -27,7 +27,7 @@ const SkillDescr = (props) => {
                                 </div>
                                 <div className="skills-descr-wrap grid">
                                     <div className="skills-descr-img"
-                                         style={{backgroundImage: `url(https://snegurjan.github.io/Antonov-Portfolio/skills/${result.img})`}}>
+                                         style={{backgroundImage: `url(https://IhorAnDev.github.io/Antonov-Portfolio/skills/${result.img})`}}>
                                     </div>
                                     <p className="skills-descr-text">{result.descr}</p>
                                     <div className="skills-descr-progress-wrap">
