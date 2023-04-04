@@ -1,5 +1,5 @@
 import React from "react";
-import './About.sass'
+import './About.scss'
 import Footer from "../Footer/Footer";
 import {Animated} from "react-animated-css";
 

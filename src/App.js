@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.sass';
-import './CommonStyles.sass';
+import './CommonStyles.scss';
 import 'react-circular-progressbar/dist/styles.css';
 import Header from "./components/Header/Header";
 import About from "./components/About/About";
@@ -32,8 +32,7 @@ function App(props) {
     return (
         <section className={`App ${paginator && 'lock'}`}>
             <NavbarContainer toggleLang={toggleLang} langIsEng={langIsEng}
-                             paginatorIsActive={paginatorIsActive}
-            />
+                             paginatorIsActive={paginatorIsActive}/>
             <div className="container">
                 <Switch>
                     <Route exact path='/main' render={() => <Header langIsEng={langIsEng}/>}/>
@@ -49,7 +48,7 @@ function App(props) {
                                                                               langIsEng={langIsEng}
                     />}/>
                     <Route exact path='/contacts' render={() => <Contacts langIsEng={langIsEng}/>}/>
-                    <Route exact path='*' render={() => <Redirect to='/main' />}/>
+                    <Route exact path='*' render={() => <Redirect to='/main'/>}/>
                 </Switch>
                 <ParticlesBackground/>
             </div>

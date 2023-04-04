@@ -1,5 +1,5 @@
 import React from "react";
-import './Contacts.sass'
+import './Contacts.scss'
 import Footer from "../Footer/Footer";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faComment, faEnvelope} from "@fortawesome/free-regular-svg-icons";
