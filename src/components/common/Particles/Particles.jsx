@@ -1,6 +1,6 @@
 import React from "react";
 import Particles from "react-particles-js";
-import './Particles.scss'
+import './Particles.sass'
 
 const ParticlesBackground = () => {
     return (

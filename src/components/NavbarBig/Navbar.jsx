@@ -1,5 +1,5 @@
 import React from "react";
-import './Navbar.scss'
+import './Navbar.sass'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faHome, faCheck, faBriefcase, faGlobe} from '@fortawesome/free-solid-svg-icons'
 import {faUser, faAddressCard} from '@fortawesome/free-regular-svg-icons'

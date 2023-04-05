@@ -2,7 +2,7 @@ import React from "react";
 import {NavLink} from "react-router-dom";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faChevronLeft, faChevronRight, faTimes} from "@fortawesome/free-solid-svg-icons";
-import './Paginator.scss'
+import './Paginator.sass'
 
 const Paginator =(props) => {
 

@@ -1,6 +1,6 @@
 import React from "react";
 import loading from '../../../assets/loading.svg'
-import './Loading.scss'
+import './Loading.sass'
 
 const Loading = ({preloader}) => {
     return (
