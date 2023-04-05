@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import './NavbarMenu.sass'
+import './NavbarMenu.scss'
 import {NavLink} from "react-router-dom";
 import {faGlobe} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
