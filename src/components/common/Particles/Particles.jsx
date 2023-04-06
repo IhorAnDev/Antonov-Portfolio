@@ -2,6 +2,7 @@ import React from "react";
 import Particles from "react-particles";
 import './Particles.scss'
 
+
 const ParticlesBackground = () => {
     return (
         <Particles
