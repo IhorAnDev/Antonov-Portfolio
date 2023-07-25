@@ -97,7 +97,6 @@ const About = React.memo(({langIsEng}) => {
                                             ' Linkedin profiles with Bitrix24.' : '- Разработал приложение и расширение Chrome для синхронизации\n' +
                                             'Профили Linkedin с Битрикс24.'}
                                     </p>
-
                                 </div>
                             </div>
                         </div>
