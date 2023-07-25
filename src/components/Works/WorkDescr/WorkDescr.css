@@ -1,0 +1,88 @@
+.works-header__title {
+  padding: 0 10px;
+  text-align: center;
+}
+
+.works-descr-wrap {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  padding: 20px;
+  grid-gap: 20px;
+  font-size: 20px;
+  font-family: "mont-reg", sans-serif;
+}
+.works-descr-img {
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  min-height: 290px;
+}
+.works-descr__title {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.works-descr-list {
+  padding-left: 30px;
+}
+.works-descr-list__item {
+  font-size: 25px;
+  line-height: 40px;
+  color: #9CBC68;
+}
+.works-descr-list__item span {
+  color: white;
+}
+.works-descr-info {
+  grid-column: 1/3;
+}
+.works-descr__link {
+  color: #9CBC68;
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "mont-med", sans-serif;
+  transition: all 0.2s ease;
+}
+.works-descr__link:hover {
+  color: #769542;
+}
+
+@media only screen and (max-width: 960px) {
+  .works-descr-wrap {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+@media only screen and (max-width: 720px) {
+  .works-descr-wrap {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+  }
+  .works-descr-info {
+    grid-column: 1/2;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .works-descr__text {
+    text-align: center;
+    font-size: 15px;
+  }
+  .works-descr__title {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .works-descr-list {
+    padding-left: 30px;
+  }
+  .works-descr-list__item {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .works-header__title {
+    font-size: 32px;
+    text-align: center;
+  }
+}
+
+/*# sourceMappingURL=WorkDescr.css.map */
